@@ -1,3 +1,5 @@
+This line was added from main
+
 …or create a new repository on the command line
 echo "# mergetest" >> README.md
 git init
